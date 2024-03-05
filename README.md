@@ -3,4 +3,4 @@
 ## Course Selling Website
 
 ### Screenshot
-![Screenshot](./output/course-selling-website.png)
+![Screenshot](./week1/output/course-selling-website.png)
